@@ -166,7 +166,7 @@ main {
 }
 
 @media (min-width: 1024px) {
-  section {
+  .search-form, section {
     max-width: 1024px;
     margin: 0 auto;
   }
